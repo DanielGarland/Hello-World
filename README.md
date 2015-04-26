@@ -1,6 +1,5 @@
 # Angularjs App
-from the github guide 
+This is a test run to work on both github and also the angularjs app.
 
-So this presumably is the readme. Store info about the repository here.
 
-Now we are going to look at committing to a new branch. This should be in the 'readMe-edits' branch
+This can be shared for others to work on the same project.
